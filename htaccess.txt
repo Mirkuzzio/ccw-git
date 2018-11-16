@@ -11,3 +11,6 @@ RewriteRule . /index.php [L]
 Provamodifica
 
 Modifica fatta da Ivan
+
+
+Modifica di Mirko
